@@ -12,8 +12,8 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 // ES ➜ Si desea recibir reportes debe de usar los tres parámetros (Número, nombre y true)
 // EN ➜ Add the Bot number as priority first
 // EN ➜ If you want to receive reports you must use the three parameters (Number, name and true)
-global.owner = [['5492266466080', '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈
-['573026191480', '𝙂𝘽 𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 💖🐈', true], ['593968585383'], ['5492266466080'], ['5217294888993'], ['5492266613038'], ['51948705559']]
+global.owner = [['5492236977400', '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈
+['13234502634', '𝙂𝘽 𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 💖🐈', true], ['5492236977400']
 
 global.mods = [] 
 global.prems = []
@@ -80,8 +80,8 @@ global.fetch = fetch
 global.axios = axios
 global.moment = moment	
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = 'BotCuliao'
+global.author = 'Azuputamadre'
 
 // ES ➜ Está parte es para mostrar el contacto de alguien al usar #contacto
 // EN ➜ This part is to display someone's contact using #contact
